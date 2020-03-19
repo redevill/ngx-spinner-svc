@@ -3,7 +3,6 @@ import { CommonModule } from '@angular/common';
 
 /**
  * @fileoverview added by tsickle
- * Generated from: lib/spinner.service.ts
  * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 var SpinnerService = /** @class */ (function () {
@@ -214,7 +213,6 @@ if (false) {
 
 /**
  * @fileoverview added by tsickle
- * Generated from: lib/spinner.component.ts
  * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 var SpinnerComponent = /** @class */ (function () {
@@ -305,7 +303,6 @@ if (false) {
 
 /**
  * @fileoverview added by tsickle
- * Generated from: lib/spinner.module.ts
  * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 var SpinnerModule = /** @class */ (function () {
@@ -324,15 +321,13 @@ var SpinnerModule = /** @class */ (function () {
 
 /**
  * @fileoverview added by tsickle
- * Generated from: public-api.ts
  * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 
 /**
  * @fileoverview added by tsickle
- * Generated from: spinner.ts
  * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 
 export { SpinnerComponent, SpinnerModule, SpinnerService };
-//# sourceMappingURL=spinner.js.map
+//# sourceMappingURL=ngx-spinner-svc.js.map

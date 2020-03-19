@@ -1,12 +1,11 @@
 (function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/core'), require('@angular/common')) :
-    typeof define === 'function' && define.amd ? define('spinner', ['exports', '@angular/core', '@angular/common'], factory) :
-    (global = global || self, factory(global.spinner = {}, global.ng.core, global.ng.common));
+    typeof define === 'function' && define.amd ? define('ngx-spinner-svc', ['exports', '@angular/core', '@angular/common'], factory) :
+    (global = global || self, factory(global['ngx-spinner-svc'] = {}, global.ng.core, global.ng.common));
 }(this, (function (exports, core, common) { 'use strict';
 
     /**
      * @fileoverview added by tsickle
-     * Generated from: lib/spinner.service.ts
      * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
     var SpinnerService = /** @class */ (function () {
@@ -217,7 +216,6 @@
 
     /**
      * @fileoverview added by tsickle
-     * Generated from: lib/spinner.component.ts
      * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
     var SpinnerComponent = /** @class */ (function () {
@@ -308,7 +306,6 @@
 
     /**
      * @fileoverview added by tsickle
-     * Generated from: lib/spinner.module.ts
      * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
     var SpinnerModule = /** @class */ (function () {
@@ -332,4 +329,4 @@
     Object.defineProperty(exports, '__esModule', { value: true });
 
 })));
-//# sourceMappingURL=spinner.umd.js.map
+//# sourceMappingURL=ngx-spinner-svc.umd.js.map

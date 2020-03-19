@@ -1,8 +1,20 @@
 {
   "name": "ngx-spinner-svc",
   "version": "1.0.0",
+  "description": "Angular 8 compatible spinner service, allowing custom html content",
+  "main": "ngx-spinner-svc.umd.js",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
-  }
+  },
+  "repository": "git+https://github.com/redevill/ngx-spinner-svc.git",
+  "keywords": ["angular8", "spinners", "service", "custom", "content"],
+  "author": "redevill <yellout@yahoo.com>",
+  "license": "MIT",
+  "bugs": "https://github.com/redevill/ngx-spinner-svc/issues",
+  "homepage": "https://github.com/redevill/ngx-spinner-svc#readme"
 }
+
+
+
+
