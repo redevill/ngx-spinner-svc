@@ -14,6 +14,9 @@ Run `ng build ngx-spinner-svc` to build the project. The build artifacts will be
 ## Publishing
 
 After building your library with `ng build ngx-spinner-svc`, go to the dist folder `cd dist/ngx-spinner-svc` and run `npm publish`.
+Make sure that you have incremented the version number in the package.json under the projects/ngx-spinner-svc folder
+You will also need to "Login" with npm login (before publish will work), follow the prompts to give the npm credentials (site npmjs.com)
+either redevill or dprzysucha and pwd and email (per npmjs account)
 
 ## Running unit tests
 
