@@ -22,3 +22,12 @@ Run `ng test ngx-spinner-svc` to execute the unit tests via [Karma](https://karm
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+> ## NOTICE
+`@redevill/ngx-spinner-svc` this fork is adapted from @Chevtek/angular-spinners, and is intended to resolve the ngModule error, that claims there are functions specified in the ngModule Attribute.
+
+With the rebuild under angular 8 this appears to be again working. A pull request can be organized to upgrade the original library, and will be provided upon request.
+
+### Reference
+Please refer to parent of this fork for documentation.
