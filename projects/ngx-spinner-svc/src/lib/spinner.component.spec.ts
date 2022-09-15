@@ -13,7 +13,6 @@ describe('SpinnerComponent', () => {
     .compileComponents();
   }));
 
-  beforeEach(() => {
     fixture = TestBed.createComponent(SpinnerComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
