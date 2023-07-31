@@ -13,11 +13,15 @@ import { SpinnerService } from './spinner.service';
   styles: []
 })
 export class SpinnerComponent implements OnInit, OnDestroy {
-  constructor(private spinnerService: SpinnerService) {}
+  constructor(private spinnerService: SpinnerService) {
+    this.name = '';
+    this.group = '';
+    this.loadingImage = '';
+  }
 
-  @Input() name: string;
-  @Input() group: string;
-  @Input() loadingImage: string;
+  @Input() public name: string;
+  @Input() public group: string;
+  @Input() public loadingImage: string;
 
   private isShowing = false;
 
