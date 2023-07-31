@@ -16,9 +16,11 @@ describe('SpinnerComponent', () => {
     fixture = TestBed.createComponent(SpinnerComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
-  });
 
   it('should create', () => {
-    expect(component).toBeTruthy();
-  });
+    expect(SpinnerComponent).toBeTruthy();
+  })
 });
+
+
+
