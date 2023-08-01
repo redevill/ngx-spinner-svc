@@ -1,6 +1,6 @@
 # NgxSpinnerSvc
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.0.
+This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6
 
 ## Code scaffolding
 
@@ -27,7 +27,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > ## NOTICE
 `@redevill/ngx-spinner-svc` this fork is adapted from @Chevtek/angular-spinners, and is intended to resolve the ngModule error, that claims there are functions specified in the ngModule Attribute.
 
-With the rebuild under angular 14 this appears to be again working. A pull request can be organized to upgrade the original library, and will be provided upon request.
+With the rebuild under angular 16 this appears to be again working. A pull request can be organized to upgrade the original library, and will be provided upon request.
 
 ### Reference
 Please refer to parent of this fork for documentation.

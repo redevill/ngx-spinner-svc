@@ -1,6 +1,6 @@
 {
   "name": "ngx-spinner-svc",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Angular 16 compatible spinner service, allowing custom html content",
   "main": "ngx-spinner-svc.umd.js",
   "peerDependencies": {
