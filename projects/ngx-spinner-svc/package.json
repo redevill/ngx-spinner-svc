@@ -1,11 +1,11 @@
 {
   "name": "ngx-spinner-svc",
-  "version": "4.0.2",
-  "description": "Angular 14 compatible spinner service, allowing custom html content",
+  "version": "5.0.0",
+  "description": "Angular 16 compatible spinner service, allowing custom html content",
   "main": "ngx-spinner-svc.umd.js",
   "peerDependencies": {
-    "@angular/common": "^15.2.9",
-    "@angular/core": "^15.2.9"
+    "@angular/common": "^16.1.7",
+    "@angular/core": "^16.1.7"
   },
   "dependencies": {
     "tslib": "^2.3.0"
